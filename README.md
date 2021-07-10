@@ -13,7 +13,8 @@ This api is designed to get and store profile data.
 ## Endpoints
 
 Base URL = ```https://<heroku link>/profile-api/v1/```
-
+| route | method |
+|----|----|
 | /getProfile | [GET] |
 | /getProfiles | [GET] |
 | /addProfile | [POST] |
