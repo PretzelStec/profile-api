@@ -14,9 +14,9 @@ This api is designed to get and store profile data.
 
 Base URL = '''https://<heroku link>/profile-api/v1/'''
 
-/getProfile [GET]
-/getProfiles [GET]
-/addProfile [POST]
-/updateProfile [PUT]
-/deleteProfile [DELETE]
+|/getProfile |[GET]|
+|/getProfiles |[GET]|
+|/addProfile |[POST]|
+|/updateProfile |[PUT]|
+|/deleteProfile |[DELETE]|
 
